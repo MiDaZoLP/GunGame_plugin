@@ -1,0 +1,8 @@
+#Settings for GunGame
+Game:
+  #How many players do you need to start the Game manually? (minimum)
+  minimumplayers: 2
+  #At how many players should the Game start automatically?
+  playerneeded: 10
+  
+    
