@@ -1,0 +1,34 @@
+#Settings for GunGame
+Game:
+  #How many players do you need to start the Game manually? (minimum)
+  minimumplayers: 2
+  #At how many players should the Game start automatically?
+  playerneeded: 10
+  
+#Here you can define the Items(just by ID!) for each level!
+#Bows get enchanted(Infinity I) automatically!
+Items:
+  level1:
+    Item1: 283
+    Item2: 0
+  level2:
+    Item1: 268
+    Item2: 0
+  level3:
+    Item1: 272
+    Item2: 0
+  level4:
+    Item1: 267
+    Item2: 0
+  level5:
+    Item1: 285
+    Item2: 0
+  level6:
+    Item1: 261
+    Item2: 262
+  level7:
+    Item1: 346
+    Item2: 0
+  level8:
+    Item1: 332
+    Item2: 0
